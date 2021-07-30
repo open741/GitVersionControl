@@ -26,3 +26,5 @@ struct ContentView_Previews: PreviewProvider {
 // complicated function
 
 //Important Project.Saved on Github.
+
+//Stable Version.
